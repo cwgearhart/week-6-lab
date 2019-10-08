@@ -3,7 +3,7 @@ Cameron Gearhart & Dominique Mittermeier
 
 Week-6-Lab is a simple python program that tells you if you're old enough to consume alcohol. 
 
-!(https://media.giphy.com/media/3oKIPbNb1vWdftiVLq/giphy.gif)
+![](https://media.giphy.com/media/3oKIPbNb1vWdftiVLq/giphy.gif)
 
 The only two peices of information we will need is your name and age. This is how you tell us that information. 
 
